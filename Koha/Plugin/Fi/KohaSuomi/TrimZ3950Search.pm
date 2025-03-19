@@ -22,7 +22,7 @@ our $metadata = {
     minimum_version => '17.05',
     maximum_version => '',
     version         => '1.0.0',
-    description     => 'Trim the author and title fields in the Z39.50 search',
+    description     => 'Trim the author and title fields in the Z39.50 search. (Paikalliskannat, Täti)',
 };
 
 ## This is the minimum code required for a plugin's 'new' method
